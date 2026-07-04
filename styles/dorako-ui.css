@@ -8181,8 +8181,8 @@ body.game .app[data-theme]:not(.actor) form button:active, body.game .app[data-t
 
 [data-application-theme=dnd5e2].theme-light [data-theme] {
   --window-app-background:
-    url("../../img/dnd5e_texture-gray1.webp") no-repeat top left,
-    url("../../img/dnd5e_texture-gray2.webp") no-repeat bottom right, var(--dnd5e-color-parchment);
+    url("../img/dnd5e_texture-gray1.webp") no-repeat top left,
+    url("../img/dnd5e_texture-gray2.webp") no-repeat bottom right, var(--dnd5e-color-parchment);
   --window-app-border-color: var(--dnd5e-color-gold);
   --icon-border-color: var(--dnd5e-color-gold);
 }
@@ -8196,8 +8196,8 @@ body.game .app[data-theme]:not(.actor) form button:active, body.game .app[data-t
   --fieldset-border-color: var(--dnd5e-color-gold);
   --fieldset-background-color: var(--dnd5e-color-card);
   --window-app-background:
-    url("../../img/dnd5e_texture-gray1.webp") no-repeat top left,
-    url("../../img/dnd5e_texture-gray2.webp") no-repeat bottom right, var(--dnd5e-color-parchment);
+    url("../img/dnd5e_texture-gray1.webp") no-repeat top left,
+    url("../img/dnd5e_texture-gray2.webp") no-repeat bottom right, var(--dnd5e-color-parchment);
 }
 
 [data-chat-message-theme=dnd5e2][data-chat-message-color-scheme=dark][data-theme],
@@ -8441,8 +8441,8 @@ body.game .app[data-theme]:not(.actor) form button:active, body.game .app[data-t
 
 [data-application-theme=github].theme-light [data-theme] {
   --window-app-background:
-    url("../../img/dnd5e_texture-gray1.webp") no-repeat top left,
-    url("../../img/dnd5e_texture-gray2.webp") no-repeat bottom right, var(--dnd5e-color-parchment);
+    url("../img/dnd5e_texture-gray1.webp") no-repeat top left,
+    url("../img/dnd5e_texture-gray2.webp") no-repeat bottom right, var(--dnd5e-color-parchment);
   --window-app-border-color: var(--dnd5e-color-gold);
   --icon-border-color: var(--dnd5e-color-gold);
 }
@@ -8456,8 +8456,8 @@ body.game .app[data-theme]:not(.actor) form button:active, body.game .app[data-t
   --fieldset-border-color: var(--dnd5e-color-gold);
   --fieldset-background-color: var(--dnd5e-color-card);
   --window-app-background:
-    url("../../img/dnd5e_texture-gray1.webp") no-repeat top left,
-    url("../../img/dnd5e_texture-gray2.webp") no-repeat bottom right, var(--dnd5e-color-parchment);
+    url("../img/dnd5e_texture-gray1.webp") no-repeat top left,
+    url("../img/dnd5e_texture-gray2.webp") no-repeat bottom right, var(--dnd5e-color-parchment);
 }
 
 [data-chat-message-theme=github][data-chat-message-color-scheme=dark][data-theme],
